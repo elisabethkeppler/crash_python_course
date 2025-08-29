@@ -1,4 +1,4 @@
-# Rational Class
+# Rational Class (README of ex.4)
 
 ## Description
 
